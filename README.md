@@ -34,3 +34,6 @@ See our [Terraform repository](https://github.com/usegalaxy-eu/terraform/tree/pu
 5. Run `terraform plan` to see the changes that will be made
 6. Run `terraform apply` to apply the changes
 7. **CAUTION:** Run `terraform destroy` to destroy the infrastructure
+
+#### Test environment
+1. Installed Terraform version v1.2.8
